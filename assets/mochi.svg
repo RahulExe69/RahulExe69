@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 116" role="img" aria-labelledby="title desc">
+<title id="title">Mochi animated profile companion</title>
+<desc id="desc">A tiny white kitten with pink ears, sparkling eyes and a red bow.</desc>
+<style>
+  .bob{animation:bob 4.8s ease-in-out infinite}
+  .tail{transform-box:fill-box;transform-origin:0% 100%;animation:tail 1.8s ease-in-out infinite}
+  .blink{animation:blink 4.8s steps(1,end) infinite}
+  .walk{animation:walk 4.8s ease-in-out infinite}
+  .spark{animation:spark 4.8s ease-in-out infinite}
+  @keyframes bob{0%,18%,100%{transform:translateY(0)}24%{transform:translateY(-2px)}38%{transform:translateY(0)}52%{transform:translateY(-12px) scale(.94,1.06)}62%{transform:translateY(0) scale(1.03,.96)}78%{transform:translateY(0)}}
+  @keyframes tail{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(13deg)}}
+  @keyframes blink{0%,45%,49%,100%{opacity:1}46%,48%{opacity:0}}
+  @keyframes walk{0%,18%,78%,100%{transform:translateX(0)}28%{transform:translateX(6px)}38%{transform:translateX(12px)}48%{transform:translateX(7px)}58%{transform:translateX(0)}68%{transform:translateX(-3px)}}
+  @keyframes spark{0%,38%,100%{opacity:0;transform:scale(.5)}48%,58%{opacity:1;transform:scale(1)}}
+</style>
+<g class="walk">
+  <ellipse cx="80" cy="102" rx="18" ry="4" fill="#2a2733" opacity=".13"/>
+  <g class="bob">
+    <g class="tail" fill="none" stroke="#2a2733" stroke-width="5" stroke-linecap="round">
+      <path d="M91 88 C106 82 111 71 101 62"/>
+      <path d="M91 88 C106 82 111 71 101 62" stroke="#fff" stroke-width="3.2"/>
+    </g>
+    <ellipse cx="80" cy="83" rx="14" ry="11" fill="#fff" stroke="#2a2733" stroke-width="1.6"/>
+    <ellipse cx="80" cy="88" rx="8" ry="6" fill="#fff9fc"/>
+    <ellipse cx="69" cy="91" rx="5.2" ry="3.1" fill="#fff" stroke="#2a2733" stroke-width="1.2"/>
+    <ellipse cx="91" cy="91" rx="5.2" ry="3.1" fill="#fff" stroke="#2a2733" stroke-width="1.2"/>
+    <g stroke="#2a2733" stroke-width="1.1" stroke-linecap="round" fill="none">
+      <path d="M73 89l-10-1M73 92l-11 2M87 89l10-1M87 92l11 2"/>
+    </g>
+    <g>
+      <path d="M68 61 L65 45 Q75 47 79 53Z" fill="#fff" stroke="#2a2733" stroke-width="1.6"/>
+      <path d="M92 61 L95 45 Q85 47 81 53Z" fill="#fff" stroke="#2a2733" stroke-width="1.6"/>
+      <path d="M69 56 L67 48 Q72 50 75 54Z" fill="#ffb2c3"/>
+      <path d="M91 56 L93 48 Q88 50 85 54Z" fill="#ffb2c3"/>
+      <ellipse cx="80" cy="58" rx="15" ry="13" fill="#fff" stroke="#2a2733" stroke-width="1.6"/>
+      <ellipse cx="70" cy="63" rx="3.5" ry="1.8" fill="#ff8da5" opacity=".48"/>
+      <ellipse cx="90" cy="63" rx="3.5" ry="1.8" fill="#ff8da5" opacity=".48"/>
+      <g class="blink">
+        <ellipse cx="74.4" cy="57.5" rx="3.6" ry="4" fill="#22202a"/>
+        <ellipse cx="85.6" cy="57.5" rx="3.6" ry="4" fill="#22202a"/>
+        <circle cx="75.6" cy="56.2" r="1.3" fill="#fff"/>
+        <circle cx="86.8" cy="56.2" r="1.3" fill="#fff"/>
+        <circle cx="72.8" cy="59.2" r=".6" fill="#fff"/>
+        <circle cx="84.9" cy="59.2" r=".6" fill="#fff"/>
+      </g>
+      <g fill="none" stroke="#2a2733" stroke-width="1.4" stroke-linecap="round">
+        <path d="M77.8 65 Q80 67 82.2 65"/>
+        <path d="M80 63.5v2.2"/>
+      </g>
+      <path d="M78.5 62.5h3L80 64.3Z" fill="#ff8da5"/>
+      <g fill="#e11d48" stroke="#881337" stroke-width="1">
+        <path d="M80 72 Q71 65 69 71 Q70 76 80 74Z"/>
+        <path d="M80 72 Q89 65 91 71 Q90 76 80 74Z"/>
+      </g>
+      <circle cx="80" cy="71.5" r="2.3" fill="#fbbf24" stroke="#b45309" stroke-width=".8"/>
+    </g>
+  </g>
+  <g class="spark" fill="#ffb2c3">
+    <text x="116" y="42" font-size="10">♥</text>
+    <text x="37" y="35" font-size="8">✦</text>
+    <text x="121" y="74" font-size="7">✦</text>
+  </g>
+</g>
+</svg>
