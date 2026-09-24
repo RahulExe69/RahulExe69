@@ -39,54 +39,6 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## 🏗️ projects
-
-<!--
-  🔧 REPLACE every href="#" and description below with the real thing —
-  nothing here is invented, these are placeholders for you to fill in.
--->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏴‍☠️ OnlyUs
-_placeholder description — replace with what this actually does_
-
-[repo →](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ ExeToolz
-_placeholder description — replace with what this actually does_
-
-[repo →](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ Rockboys
-_placeholder description — replace with what this actually does_
-
-[repo →](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 game dev experiments
-_placeholder description — replace with what this actually does_
-
-[repo →](#)
-
-</td>
-</tr>
-</table>
-
-<!-- 🔧 add more cards here using the same table pattern -->
-
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## 🧰 things i've played with
@@ -111,12 +63,11 @@ No roadmap. No structured learning path. Just an idea, a keyboard, and a willing
 
 ## 📊 github activity
 
-<!-- 🔧 REPLACE "RahulExe69" in every URL below with your real GitHub handle -->
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahulExe69&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulExe69&layout=compact&theme=synthwave&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulExe69&theme=radical" alt="GitHub stats" height="165"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulExe69&theme=radical" alt="Top languages" height="165"/>
 
 <br/>
 
@@ -124,7 +75,7 @@ No roadmap. No structured learning path. Just an idea, a keyboard, and a willing
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulExe69&theme=react-dark&hide_border=true&bg_color=08060F&color=00FFF2&line=FF2E97&point=FFD23F" alt="Activity graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulExe69&theme=radical" alt="GitHub activity" width="100%"/>
 
 </div>
 
