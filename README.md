@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="150" alt="Rahul" />
+<img src="./assets/avatar-circle.svg" width="150" alt="Rahul" />
 
 <br/>
 
