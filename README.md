@@ -1,63 +1,90 @@
 <div align="center">
 
-<!-- 🔧 REPLACE: put your pixel-art avatar at assets/avatar.png (square image, 200–300px works best) -->
-<img src="./assets/avatar.png" width="130" alt="pixel art avatar of Rahul" />
+<img src="./assets/avatar.png" width="150" alt="Rahul" />
+
+<br/>
+
+<img src="./assets/hero.svg" width="100%" alt="RAHUL.EXE — I build things." />
 
 <br/><br/>
 
-<!-- animated hero: CRT terminal, glitch title, typewriter lines, floating pixels -->
-<img src="./assets/hero.svg" width="100%" alt="RAHUL.EXE — I build things." />
+<a href="https://github.com/RahulExe69">
+  <img src="https://img.shields.io/github/followers/RahulExe69?label=followers&style=for-the-badge&logo=github&logoColor=white&color=ff2e97" alt="GitHub followers" />
+</a>
+<a href="https://github.com/RahulExe69?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-explore-00fff2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<a href="https://exetoolz.vercel.app/">
+  <img src="https://img.shields.io/badge/ExeToolz-live-ffd23f?style=for-the-badge&logo=vercel&logoColor=black" alt="ExeToolz" />
+</a>
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## 🧭 currently building
+## 👋 hey, i'm rahul
+
+I'm a builder who likes turning random ideas into working software.
+
+I bounce between **web apps, AI tools, Android APKs, game development and 3D experiments** — usually learning the hard way when something inevitably breaks. 😭
 
 <div align="center">
 
-| 🌐 web apps | 🤖 AI tools | 📱 APKs | 🎮 game dev | 🧊 3D / WebGPU | ⚙️ automation |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| shipping | tinkering | building | prototyping | breaking things | wiring it all together |
+> **idea → build → break → debug → learn → ship → repeat**
 
 </div>
 
-<!-- 🔧 living status — update this row whenever your actual focus shifts -->
-
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## 🔁 how i build
+## 🚀 what i'm into right now
 
 <div align="center">
 
-<!-- animated loop diagram: neon panels + a traveling pulse that runs the cycle continuously -->
-<img src="./assets/build-cycle.svg" width="100%" alt="idea → build → break → debug → workaround → learn → ship → new idea" />
+| 🌐 Web | 🤖 AI | 📱 Android | 🎮 Games | 🧊 3D |
+|:---:|:---:|:---:|:---:|:---:|
+| React · JS · TS | AI-assisted development | Capacitor · APKs | Unity · Godot | Three.js · WebGPU |
 
 </div>
 
-<p align="center"><i>started with copy-pasting HTML, somehow ended up here.</i></p>
-
-<img src="./assets/divider.svg" width="100%" height="8" alt="" />
-
-<img src="./assets/divider.svg" width="100%" height="8" alt="" />
-
-## 🧰 things i've played with
+<br/>
 
 <div align="center">
 
-<!-- animated arcade-style loading bars, staggered fill on load -->
-<img src="./assets/tools.svg" width="100%" alt="tools and languages" />
+**Building things that are useful, weird, fun — and occasionally all three.**
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## 🧠 my approach
+## 🧰 my toolbox
+
+<div align="center">
+
+<img src="./assets/tools.svg" width="100%" alt="tools and technologies" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,flask,git,github,supabase,firebase,unity,godot,threejs" alt="technology stack" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
+
+## 🧠 how i build
 
 I don't always learn something first and then build.
-Sometimes I build first, and learn whatever breaks along the way.
 
-No roadmap. No structured learning path. Just an idea, a keyboard, and a willingness to find out why it isn't working at 1am.
+Sometimes I build first, then learn whatever breaks along the way.
+
+No perfectly structured roadmap. No pretending I know everything.
+
+Just an idea, a keyboard, a lot of debugging, and a willingness to find out why it isn't working at 1 AM. 🌙
+
+<div align="center">
+
+<img src="./assets/build-cycle.svg" width="100%" alt="idea, build, break, debug, workaround, learn, ship, repeat" />
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
@@ -65,17 +92,16 @@ No roadmap. No structured learning path. Just an idea, a keyboard, and a willing
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulExe69&theme=radical" alt="GitHub stats" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulExe69&theme=radical" width="100%" alt="GitHub activity" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulExe69&theme=radical" alt="Top languages" height="165"/>
+<br/><br/>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulExe69&theme=radical" height="170" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulExe69&theme=radical" height="170" alt="Repository languages" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=RahulExe69&theme=highcontrast&background=08060F&stroke=00FFF2&ring=FF2E97&fire=FFD23F&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulExe69&theme=radical" alt="GitHub activity" width="100%"/>
 
 </div>
 
@@ -84,8 +110,9 @@ No roadmap. No structured learning path. Just an idea, a keyboard, and a willing
 ## 🥚 a small easter egg
 
 <details>
-<summary><code>$ whoami</code> <sub>(click to run)</sub></summary>
-<br>
+<summary><code>$ whoami</code> <sub>click to run</sub></summary>
+
+<br/>
 
 ```bash
 $ whoami
@@ -94,15 +121,14 @@ rahul
 $ cat ./philosophy.txt
 idea > plan
 build > tutorial
-"why the hell isn't this working" > 90% of my commit history
+debug > complain
+ship > perfect
 
-$ git log --oneline -3
-a1b2c3d fix the fix from yesterday
-9f8e7d6 it works now, don't ask how
-1234abc initial idea, no plan
+$ git log --oneline
+"it works now, don't ask how"
+"why did that fix it?"
+"okay... let's build it"
 ```
-
-<!-- 🔧 swap the fake commit lines for real ones if you want it to be true, not just funny -->
 
 </details>
 
@@ -110,17 +136,14 @@ a1b2c3d fix the fix from yesterday
 
 <div align="center">
 
-started with copy-pasting HTML.
-still figuring things out.
-just with bigger problems now. 😂
-
-</div>
+### ⚡ build first. figure it out later.
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- Everything below this line is setup notes for YOU, not for   -->
-<!-- visitors — delete this whole block once you're set up, or    -->
-<!-- leave it, it just won't render as anything meaningful in the -->
-<!-- middle of the page since it's placed after the real content. -->
-<!-- ============================================================ -->
+<sub>started with copy-pasting HTML. still figuring things out — just with bigger problems now. 😂</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RahulExe69&style=for-the-badge&color=ff2e97&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
