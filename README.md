@@ -22,6 +22,16 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
+<div align="center">
+
+<img src="./assets/mochi.gif" width="220" alt="Mochi, my little animated GitHub companion" />
+
+<sub>🐾 Mochi is taking a tiny walk through my profile.</sub>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
+
 ## 👋 hey, i'm rahul
 
 I'm a builder who likes turning random ideas into working software.
