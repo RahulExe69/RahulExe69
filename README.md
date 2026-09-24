@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./assets/mochi.gif" width="220" alt="Mochi, my little animated GitHub companion" />
+<img src="./assets/mochi.svg" width="220" alt="Mochi, my little animated GitHub companion" />
 
 <sub>🐾 Mochi is taking a tiny walk through my profile.</sub>
 
