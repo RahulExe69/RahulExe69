@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://github.com/RahulExe69">
-  <img src="https://img.shields.io/github/followers/RahulExe69?label=followers&style=for-the-badge&logo=github&logoColor=white&color=ff2e97" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/RahulExe69?label=followers&style=for-the-badge&logo=github&logoColor=white&color=00cfff" alt="GitHub followers" />
 </a>
 <a href="https://github.com/RahulExe69?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-explore-00fff2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
@@ -102,16 +102,16 @@ Just an idea, a keyboard, a lot of debugging, and a willingness to find out why 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulExe69&theme=radical" width="100%" alt="GitHub activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulExe69&theme=tokyonight" width="100%" alt="GitHub activity" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulExe69&theme=radical" height="170" alt="GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulExe69&theme=radical" height="170" alt="Repository languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulExe69&theme=tokyonight" height="170" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulExe69&theme=tokyonight" height="170" alt="Repository languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RahulExe69&theme=highcontrast&background=08060F&stroke=00FFF2&ring=FF2E97&fire=FFD23F&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=RahulExe69&theme=highcontrast&background=06111F&stroke=00CFFF&ring=00CFFF&fire=FFD23F&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -154,6 +154,6 @@ $ git log --oneline
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RahulExe69&style=for-the-badge&color=ff2e97&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=RahulExe69&style=for-the-badge&color=00cfff&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
